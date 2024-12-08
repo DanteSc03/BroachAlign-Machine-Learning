@@ -1,7 +1,7 @@
 # ✈️ Machine Learning Project for Predicting Broach Maintenance in Airplane Engine Manufacturing ✈️
 
 ## Overview
-This project was developed as part of a class assignment focusing on machine learning techniques for clustering and regression analysis. It explores real-world datasets to solve challenges and extract meaningful insights. Specifically, it addresses the critical task of predicting when to replace broaches used in manufacturing airplane engines.
+This project was developed as a focus on machine learning techniques for clustering and regression analysis. It explores real-world datasets to solve challenges and extract meaningful insights. Specifically, it addresses the critical task of predicting when to replace broaches used in manufacturing airplane engines.
 
 The work was a collaborative effort by:
 - **Dante Schrantz** ([GitHub: dantesc03](https://github.com/dantesc03))
