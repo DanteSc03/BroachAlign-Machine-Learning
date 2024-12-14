@@ -1,5 +1,5 @@
 # ITP AERO by Miguel Diaz and Dante Schrantz
-rm(list=ls())
+rm(list=ls()) 
 
 
 carga <- function(x){
