@@ -1,4 +1,4 @@
-# Supervised Part 2: ITP AERO by Miguel Diaz and Dante Schrantz
+# Supervised Part 2: ITP AERO by Miguel Diaz and Dante Schrantz 
 # Using the class codes to try to solve the ITP Aero company problem. The database was matched by the company's representatives together with the other companies as one of the 7 challenges during the championship days. We asked them to share their challenge with us with the purpose of using the problem for our Machine Learning final project.
 
 # Cargar bibliotecas
